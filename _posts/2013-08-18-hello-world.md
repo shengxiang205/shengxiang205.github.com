@@ -6,3 +6,5 @@ category:
 tags: []
 ---
 {% include JB/setup %}
+
+Using md to test pages
